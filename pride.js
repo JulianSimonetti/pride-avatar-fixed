@@ -2,7 +2,7 @@
 const COLOR_SCHEMES = {
     'standard': ['#e50000', '#ff8d00', '#ffee00', '#008121', '#004cff', '#760188'],
     'modern':   ['#E53935', '#FB8C00', '#FDD835', '#43A047', '#1E88E5', '#8E24AA'],
-    'bi':      ['#D60270', '#9B4F96', '#0038A8'],
+    'bi':      ['#D60270', '#D60270', '#9B4F96', '#0038A8', '#0038A8'],
     'trans':    ['#5bcffa', '#f5abb9', '#ffffff', '#f5abb9', '#5bcffa'],
     'genderqueer':     ['#b67fdb', '#ffffff', '#478121'],
     'enby':     ['#FFF430', '#FFFFFF', '#9C59D1', '#000000'],
